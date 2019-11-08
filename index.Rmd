@@ -29,7 +29,7 @@ theme_set(
   
 ### Analysis: How do you pronounce regex?
 
-[![](readme_files/figures/results.png)](https://twitter.com/travisgerke/status/1192432767881162754)
+[![](figures/results.png)](https://twitter.com/travisgerke/status/1192432767881162754)
 
 
 ```{r echo=TRUE}
